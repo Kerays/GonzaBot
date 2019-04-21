@@ -1,8 +1,5 @@
 {
-
-  "prefix": "!",
-  "sahip": "441292954984906758",
-  "token": "NTU3NjM4MzE3MjkwODE1NTM4.XLCnAw.oA8yDZrjMUFXFnWEbPJpsbcP4UU"
-  
-  
+  "prefix": "-", //komutları kullanırken ön ek belirleyin
+  "sahip": "309617463857905674",   //kendi ıdnizi yazın
+  "token": ""   //botun tokenini girin
 }
